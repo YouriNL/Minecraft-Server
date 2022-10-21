@@ -1,3 +1,9 @@
+---
+layout: page
+title: Licence
+permalink: /license/
+---
+
 ## creative commons
 
 # Attribution-NonCommercial-ShareAlike 4.0 International
